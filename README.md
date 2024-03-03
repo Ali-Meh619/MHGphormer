@@ -1,6 +1,6 @@
 # Metapath-based Heterogeneous Graph-Transformer Network (MHGphormer)
 
-This is the official Pytorch implementation of the Metapath-based Heterogeneous Graph-Transformer Network (MHGphormer), which is proposed in our paper [Joint Spectrum, Precoding, and Phase-Shifts Design for RIS-Aided Multiuser MIMO THz Systems](https://openreview.net/pdf?id=hxEIgUXLFF) accepted for publication in *IEEE Transactions on Communications* 2024.
+This is the official Pytorch implementation of the Metapath-based Heterogeneous Graph-Transformer Network (MHGphormer), which is proposed in our paper [Joint Spectrum, Precoding, and Phase Shifts Design for RIS-Aided Multiuser MIMO THz Systems](https://openreview.net/pdf?id=hxEIgUXLFF) accepted for publication in *IEEE Transactions on Communications* 2024.
 
 ## Installation
 
