@@ -4,13 +4,11 @@ This is the official Pytorch implementation of the Metapath-based Heterogeneous 
 
 ## Installation
 
-First check the requirements as follows:\
+First, check the requirements as follows:\
 python=3.7\
 numpy=1.17.0\
 pytorch=1.12.1\
-cudatoolkit = 11.3.1\
-wandb=0.12.19\
-torchvision=0.13.1\
+
 
 
 Then clone the repository as follows:
