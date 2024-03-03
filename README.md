@@ -7,7 +7,7 @@ This is the official Pytorch implementation of the Metapath-based Heterogeneous 
 First, check the requirements as follows:\
 python=3.7\
 numpy=1.17.0\
-pytorch=1.12.1\
+pytorch=1.12.1
 
 
 
