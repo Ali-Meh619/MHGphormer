@@ -15,7 +15,7 @@ torchvision=0.13.1\
 
 Then clone the repository as follows:
 ```shell
-git clone https://github.com/MehdiSet/PerFedMask.git
+[git clone https://github.com/Ali-Meh619/MHGphormer.git]
 ```
 
 ## Citation
