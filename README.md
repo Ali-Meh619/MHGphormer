@@ -31,7 +31,7 @@ If you find our paper and code useful, please kindly cite our paper as follows:
 @ARTICLE{Mehrabian2024MHGphormer,
   author={Mehrabian, Ali and Wong, Vincent W. S.},
   journal={\rm{accepted for publication in} \textit{IEEE Trans. Commun.}}, 
-  title={Joint Spectrum, Precoding, and Phase-Shifts Design for {RIS}-Aided Multiuser {MIMO} {TH}z Systems}, 
+  title={Joint Spectrum, Precoding, and Phase Shifts Design for {RIS}-Aided Multiuser {MIMO} {TH}z Systems}, 
   year={2024}
 }
 ```
