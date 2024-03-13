@@ -18,9 +18,9 @@ Then clone the repository as follows:
 
 ## Description
 
-The file "System Setup and Generating Dataset" contains the code for simulation parameters, creating the system environment and generating the training and test dataset.\
+The file "System Setup and Generating Dataset" contains the code for simulation parameters, creating the system environment and generating the training and test datasets.\
 The file "MHGphormer Architecture" contains the code for the MHGphormer learning algorithm.\
-The file "Loss Function and Training" contains the code for designing the loss function based on the optimization problem and training process.\
+The file "Loss Function and Training" contains the code for designing the loss function based on the optimization problem and the training process.\
 The file "Execution" contains the code for running the model in the training and test phases.
 
 
