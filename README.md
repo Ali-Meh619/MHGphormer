@@ -28,10 +28,14 @@ The file "Execution" contains the code for running the model in the training and
 
 If you find our paper and code useful, please kindly cite our paper as follows:
 ```bibtex
-@ARTICLE{Mehrabian2024MHGphormer,
+@article{b16,
+  title={Joint spectrum, precoding, and phase shifts design for {RIS}-aided multiuser {MIMO} {THz} systems},
   author={Mehrabian, Ali and Wong, Vincent W. S.},
-  journal={\rm{accepted for publication in} \textit{IEEE Trans. Commun.}}, 
-  title={Joint Spectrum, Precoding, and Phase Shifts Design for {RIS}-Aided Multiuser {MIMO} {TH}z Systems}, 
+  journal={IEEE Trans. Commun.},
+ volume={72},
+  number={8},
+  pages={5087-5101},
+month={Aug.},
   year={2024}
 }
 ```
