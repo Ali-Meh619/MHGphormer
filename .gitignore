@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+RIS-MIMO-THz/
+new_mhgphormer_lam1.txt
+new_mhgphormer_rate.txt
+venv/
+.env
